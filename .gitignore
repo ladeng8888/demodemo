@@ -1,0 +1,13 @@
+.idea
+c.js
+gulp.dest
+gulp.src
+gulp.pipe
+gulp.watch
+gulp.run
+concat
+min
+uglify
+nano
+browser-sync
+html-min
